@@ -35,6 +35,18 @@
 
 # Preparation at the event
 
+## Schedule
+The schedules changes from event to event but this one is roughly correct for most events.  Plan on
+getting there around 8:00am.
+
+- 7:30am          Gates open
+- 8:00am-8:45am   Onsite Registration/Check-in (you have to check in even if you registered online)
+- 8:00am-8:45am   Tech Inspection
+- 8:30am-9:15am   Course Open for walking
+- 9:00am-9:15am   Novice Walk-through
+- 9:30am-9:45am   Driver’s Meeting (course closed for walking)
+- 10:00am-4:00pm  Competition
+
 ## Car
 - Inflate tires to 40 psi if running all season or summer tires
 - Put on numbers and class using masking tape
