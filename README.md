@@ -19,7 +19,7 @@
 - Blue masking tape to make numbers for your car.  Get a different color if your car is blue
 
 ## For yourself
-- Do not wear red clothes or bring a red umbrella
+- Do not wear red clothes or bring a red umbrella.  You will be required to cover them up while working the course.
 - Registration cash or check unless paying online
 - Sunscreen
 - Bug spray
@@ -62,13 +62,30 @@ getting there around 8:00am.
 - Learn the run order at the driver's meeting
   - You will be driving in one heat, working in one heat, and resting in one heat
 
+## Walking the course
+- After checking in and going through tech, walk the course several times.  One of the times should be the required novice walkthrough.
+- Remember that you will be sitting on the left side of the car.  Walk close to cones on the left and about 6 feet away from cones on the right.
+- Identify confusing course elements and go through them a second time
+- Determine which way to go around optional slaloms.  Do you want to start on the left or right of the first cone?
+- Note where the timing stops at the finish.  You will want to be at full throttle all the way through the timing lights.
+
 # Running the course
 
 ## Driving
 
 - If the course workers wave a red flag at you, come to a completed stop.  The workers will let you know when it is safe to proceed.  Someone probably spun out in front of you.  You will get a rerun.
 - If you see a course worker running in front of your car, do not run them over.  You will get a rerun.
-- If you start to spin the car, do not try and save it.  Press on the clutch and brake pedals until you come to a full stop.  This makes your car go in a predictable direction so corner workers can get out of the way.
+- If you start to spin the car, do not try and save it.  Press the clutch and brake pedals until you come to a full stop.  This makes your car go in a predictable direction so corner workers can get out of the way.
+
+## Your first run
+- Line up your car in the paddock.  After each run, you will want to return to the same space.  The front few slots are reserved for two driver cars.
+- A worker will be directing cars in the paddock to get in line to run.  Start your car when he is a few cars away from you.
+- Turn off traction control
+- When the grid worker gets to you, slowly drive up to the start line.  When you are 2nd in line, give some room to the first guy.  Rear wheel drive cars can kick up rocks when they start.
+- Once it is your turn, inch up to the line and watch for the starting worker.  They will let you know when your car is in the correct position.  Be ready to brake.
+- When the starting worker waves the flag, you can start your run.  The launch is not timed so don't worry about going exactly when the flag drops.  Timing starts about 10 or 12 feet after the start line so you don't need to dump the clutch.
+- Shift into 2nd gear at the first corner no matter what speed you are going.  Stay in 2nd gear with both hands on the wheel for the rest of your run.
+- Focus on staying on course instead of going fast.  Once you have a valid time, you can start speeding up.
 
 ## Course Elements
 
