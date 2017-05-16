@@ -11,8 +11,37 @@
 - Make sure your battery is tied down.  Most modern cars come with a battery tie down.  You should be able to give your battery a solid tug and it should not move
 - At least a quarter tank of gas
 
+## Car Classing
+On your first three events, sign up for the Novice Street Tire class (NS). Pick a number that is
+easy to write with tape.  For example 1, 17, or 4.  In a two driver car, pick a three digit number
+with 1 as the first digit.  That way, you can switch numbers by moving two pieces of tape.
+
+After your first few events, you will move out of the novice classes and into the regular classes.
+Here is a rough idea of how the classes work.
+
+- Street: Completely stock car on stock sized wheels.  200 treadwear tires allowed.
+- Street Touring: Coilovers, headers, intake, exhaust, and replacement seats allowed.  ECU tunes that don't alter boost allowed.  200 treadwear tires allowed.
+- Street Prepared: Essentially street touring except unlimited boost on stock parts and R-compound slick tires allowed (Hoosiers)
+- Street Modified: All Street Touring and Prepared changes allowed.  Nearly unlimited engine work allowed including adding forced induction and certain engine swaps.  Body kits and wings allowed.
+- Classic American Muscle (CAM): Essentially street modified except you must drive an American car with a naturally aspirated V8.  Casual racism is encouraged.
+- Prepared and Modified: Dedicated autocross cars that cannot do anything else.  They often have gutted interiors, no windshields.  Some cars are scratch built and others are retired road racers.
+
+Each class has several sub classes so that brand new Corvettes are not competing directly against 25 year old Miatas.  Figure out which group you are in and ask at the event for help picking a specific class.  If you want to find out on your own, here is the [rulebook](https://dk1xgl0d43mu1.cloudfront.net/user_files/scca/downloads/000/020/866/2017-04-04-appendix-A-automobile-classes.pdf?1491322179).
+
+Here are some gotchas that bump an otherwise normal looking car up to a higher class.  These don't
+always make sense.
+
+- Wheels wider or larger than stock bumps you from Street to Street Touring
+- A single polyurethane bushing can bump you from Street to Street Touring
+- Lowering springs bump you from Street to Street Touring but adjustable shocks with stock springs do not.
+- Certain tires that seem like obvious choices for autocross will have less than 200 treadwear bump you to Street Prepared or Street Modified.  Toyo R888 and R1 are good examples of this.  As long as the tire has tread, nobody will care for your first few events.
+- An ecu tune that changes boost bumps you to Street Prepared or Street Modified.  You are now competing against 400 HP Subarus on 12" wide Hoosiers.  Sorry.
+- Hardware upgrades for forced induction such as intercooler, fuel injectors, fuel pumps, supercharger pulley, or turbo bump you to Street Modified
+- Upgrades to engine internals bumps you to Street Modified or a higher class
+
 ## Tools
-- These are all optional because you can borrow them at the event.
+You will be able to borrow all of these at your first event.  I carry my own for convenience.
+
 - Tire pressure gauge with [an air bleed button](https://www.amazon.com/Joes-Racing-32307-Pressure-Gauge/dp/B00404WDUC)
 - Torque wrench and socket for lug nuts
 - Air pump
@@ -81,11 +110,13 @@ getting there around 8:00am.
 - Line up your car in the paddock.  After each run, you will want to return to the same space.  The front few slots are reserved for two driver cars.
 - A worker will be directing cars in the paddock to get in line to run.  Start your car when he is a few cars away from you.
 - Turn off traction control
-- When the grid worker gets to you, slowly drive up to the start line.  When you are 2nd in line, give some room to the first guy.  Rear wheel drive cars can kick up rocks when they start.
+- When the grid worker gets to you, let him know you want an instructor.  He will call for one on the radio.
+- Pick up your instructor and slowly drive up to the start line.  When you are 2nd in line, give some room to the first guy.  Rear wheel drive cars can kick up rocks when they start.
 - Once it is your turn, inch up to the line and watch for the starting worker.  They will let you know when your car is in the correct position.  Be ready to brake.
 - When the starting worker waves the flag, you can start your run.  The launch is not timed so don't worry about going exactly when the flag drops.  Timing starts about 10 or 12 feet after the start line so you don't need to dump the clutch.
 - Shift into 2nd gear at the first corner no matter what speed you are going.  Stay in 2nd gear with both hands on the wheel for the rest of your run.
 - Focus on staying on course instead of going fast.  Once you have a valid time, you can start speeding up.
+- After your first or second run, have the instructor drive the car with you in the passenger seat.
 
 ## Course Elements
 
@@ -113,7 +144,7 @@ getting there around 8:00am.
 - Don't take the radio and flag as a novice.  You will probably be a runner for cones on your first few events.
 
 ### Cone penalties
-  - When a cone gets knocked down, pit it back in the correct place and let the radio guy know that the car should be penalized
+  - When a cone gets knocked down, put it back in the correct place and let the radio guy know that the car should be penalized
   - Each cone should have a box drawn around the base in white chalk
     - Knocking a standing cone over is a two second penalty
     - Hitting a standing cone so that it is still upright out of the box is a two second penalty
