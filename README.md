@@ -19,25 +19,20 @@ with 1 as the first digit.  That way, you can switch numbers by moving two piece
 After your first few events, you will move out of the novice classes and into the regular classes.
 Here is a rough idea of how the classes work.
 
-- Street: Completely stock car on stock sized wheels.  200 treadwear tires allowed.
-- Street Touring: Coilovers, headers, intake, exhaust, and replacement seats allowed.  ECU tunes that don't alter boost allowed.  200 treadwear tires allowed.
-- Street Prepared: Essentially street touring except unlimited boost on stock parts and R-compound slick tires allowed (Hoosiers)
+- Street: Almost completely stock car on stock sized wheels.  Any 200 treadwear tires allowed.
+- Street Touring: Coilovers, headers, intake, replacement seats, and ECU tunes allowed.  Any 200 treadwear tires allowed.
+- Street Prepared: Essentially street touring fenders can be cut to fit wider tires and R-compound slick tires allowed (Hoosiers)
 - Street Modified: All Street Touring and Prepared changes allowed.  Nearly unlimited engine work allowed including adding forced induction and certain engine swaps.  Body kits and wings allowed.
-- Classic American Muscle (CAM): Essentially street modified except you must drive an American car with a naturally aspirated V8.  Casual racism is encouraged.
+- Classic American Muscle (CAM): Essentially street modified on 200TW tires except you must drive an American car.  Casual racism is encouraged.
 - Prepared and Modified: Dedicated autocross cars that cannot do anything else.  They often have gutted interiors, no windshields.  Some cars are scratch built and others are retired road racers.
 
-Each class has several sub classes so that brand new Corvettes are not competing directly against 25 year old Miatas.  Figure out which group you are in and ask at the event for help picking a specific class.  If you want to find out on your own, here is the [rulebook](https://dk1xgl0d43mu1.cloudfront.net/user_files/scca/downloads/000/020/866/2017-04-04-appendix-A-automobile-classes.pdf?1491322179).
-
-Here are some gotchas that bump an otherwise normal looking car up to a higher class.  These don't
-always make sense.
-
-- Wheels wider or larger than stock bumps you from Street to Street Touring
-- A single polyurethane bushing can bump you from Street to Street Touring
-- Lowering springs bump you from Street to Street Touring but adjustable shocks with stock springs do not.
-- Certain tires that seem like obvious choices for autocross will have less than 200 treadwear bump you to Street Prepared or Street Modified.  Toyo R888 and R1 are good examples of this.  As long as the tire has tread, nobody will care for your first few events.
-- An ecu tune that changes boost bumps you to Street Prepared or Street Modified.  You are now competing against 400 HP Subarus on 12" wide Hoosiers.  Sorry.
-- Hardware upgrades for forced induction such as intercooler, fuel injectors, fuel pumps, supercharger pulley, or turbo bump you to Street Modified
-- Upgrades to engine internals bumps you to Street Modified or a higher class
+Each class has several sub classes so that brand new Corvettes are not competing directly against 25 year old Miatas.  Generally, there is a class at each prep level for the following categories
+- High powered sports cars: Corvettes, Porsche 911, Lotus Elise, supercars
+- Medium powered sports cars: Honda S2000, Newer Miatas, Nissan 350z/370Z, Porsche Boxster
+- Low powered sports cars: Older Miatas
+- Cars with back seats: BMW 3 series, Subaru BRZ/Toyota 86, Ford Focus ST, Honda Civic Si, Mini Cooper S, Mazda RX8
+- Muscle cars: Mustang, Camaro, etc
+- Rally cars: Subaru STI, Mitsubishi Evo, Ford Focus RS
 
 ## Tools
 You will be able to borrow all of these at your first event.  I carry my own for convenience.
@@ -45,7 +40,7 @@ You will be able to borrow all of these at your first event.  I carry my own for
 - Tire pressure gauge with [an air bleed button](https://www.amazon.com/Joes-Racing-32307-Pressure-Gauge/dp/B00404WDUC)
 - Torque wrench and socket for lug nuts
 - Air pump
-- Blue masking tape to make numbers for your car.  Get a different color if your car is blue
+- Masking tape to make numbers for your car.  Try to get a color that contrasts with your car's color.
 
 ## For yourself
 - Do not wear red clothes or bring a red umbrella.  You will be required to cover them up while working the course.
