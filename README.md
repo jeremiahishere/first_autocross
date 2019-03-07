@@ -87,11 +87,13 @@ getting there around 8:00am.
   - You will be driving in one heat, working in one heat, and resting in one heat
 
 ## Walking the course
-- After checking in and going through tech, walk the course several times.  One of the times should be the required novice walkthrough.
+- After checking in and going through tech, walk the course several times.  If possible, find a course map.  Otherwise, find someone who looks like they know what they are doing and discretely follow them around the course.
 - Remember that you will be sitting on the left side of the car.  Walk close to cones on the left and about 6 feet away from cones on the right.
+- When you enter a corner, look forward to see where the corner ends to plan where you are going to walk.
 - Identify confusing course elements and go through them a second time
-- Determine which way to go around optional slaloms.  Do you want to start on the left or right of the first cone?
+- Determine which way to go around optional slaloms.  Do you want to start on the left or right of the first cone?  Where do you want the car to be at the end of the slalom?
 - Note where the timing stops at the finish.  You will want to be at full throttle all the way through the timing lights.
+- Make sure to report to the novice walkthrough.  It will include a course walkthrough and how to safely work on the course.
 
 # Running the course
 
