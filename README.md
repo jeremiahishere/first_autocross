@@ -21,7 +21,7 @@ Here is a rough idea of how the classes work.
 
 - Street: Almost completely stock car on stock sized wheels.  Any 200 treadwear tires allowed.
 - Street Touring: Coilovers, headers, intake, replacement seats, and ECU tunes allowed.  Any 200 treadwear tires allowed.
-- Street Prepared: Essentially street touring fenders can be cut to fit wider tires and R-compound slick tires allowed (Hoosiers)
+- Street Prepared: Essentially street touring except fenders can be cut to fit wider tires and R-compound tires are allowed (Hoosier A7)
 - Street Modified: All Street Touring and Prepared changes allowed.  Nearly unlimited engine work allowed including adding forced induction and certain engine swaps.  Body kits and wings allowed.
 - Classic American Muscle (CAM): Essentially street modified on 200TW tires except you must drive an American car.  Casual racism is encouraged.
 - Prepared and Modified: Dedicated autocross cars that cannot do anything else.  They often have gutted interiors, no windshields.  Some cars are scratch built and others are retired road racers.
@@ -99,7 +99,7 @@ getting there around 8:00am.
 
 ## Driving
 
-- If the course workers wave a red flag at you, come to a completed stop.  The workers will let you know when it is safe to proceed.  Someone probably spun out in front of you.  You will get a rerun.
+- If the course workers wave a red flag at you, safely come to a full stop.  The workers will let you know when it is safe to proceed.  Someone probably spun out in front of you.  You will get a rerun.
 - If you see a course worker running in front of your car, do not run them over.  You will get a rerun.
 - If you start to spin the car, do not try and save it.  Press the clutch and brake pedals until you come to a full stop.  This makes your car go in a predictable direction so corner workers can get out of the way.
 
